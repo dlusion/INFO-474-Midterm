@@ -1,0 +1,33 @@
+html {
+    font-family: 'Lucida Sans Unicode' !important;
+}
+
+.tooltip {
+    background: white;
+    border-color: black;
+    border-radius: 1px;
+    border-style: solid;
+    padding: 10px;
+}
+
+.tooltip p {
+    margin: 0;
+}
+
+.tooltip .type {
+    color: slategray;
+}
+
+#filterGen {
+    position: relative;
+    width: 200px;
+    left: 1300px;
+    top: 520px;
+}
+
+#filterLegendary {
+    position: relative;
+    width: 200px;
+    left: 1300px;
+    top: 550px;
+}
